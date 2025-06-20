@@ -1,0 +1,6 @@
+newspaper3k
+langchain
+faiss-cpu
+sentence-transformers
+transformers
+serpapi
